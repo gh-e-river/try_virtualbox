@@ -231,6 +231,4 @@ GitLabはGitHubと同じような機能が沢山ありますし、企業で採�
 是非、この機会にGit、GitLabをインストールしてマスターしてみてくださいませ。
 
 ## インストール
-ここに詳しくインストールする手順が書いてあります。
-https://about.gitlab.com/install/#centos-7
-
+[ここ](https://about.gitlab.com/install/#centos-7)に詳しくインストールする手順が書いてあります。
