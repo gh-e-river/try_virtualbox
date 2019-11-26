@@ -178,6 +178,7 @@ rootに戻って設定ファイルを編集します。
 /etc/ssh/sshd_config
 
 <編集項目>
+
 | 項目名 | デフォルト | 変更値 | 詳細 
 |:--|:--:|:--:|:--|
 | PermitRootLogin | yes | no | rootでログインを不可 |
